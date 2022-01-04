@@ -1,0 +1,12 @@
+requests
+beautifulsoup4
+tqdm
+numpy
+pandas
+matplotlib
+seaborn
+joblib
+scikit-learn
+xgboost
+thefuzz[speedup]
+streamlit
